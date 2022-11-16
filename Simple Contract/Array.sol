@@ -16,8 +16,6 @@ function LengthOfArray() public view returns(uint)
 return  Arr.length;
 }
 
-
-
 }
 
 
